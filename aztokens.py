@@ -23,7 +23,6 @@ endpoints = [
         '822c8694-ad95-4735-9c55-256f7db2f9b4',
         'https://dev.azuresynapse.net',
         'https://database.windows.net',
-        'https://quantum.microsoft.com',
         'https://iothubs.azure.net',
 ]
 print (f'[ * ] Attempting to obtain resource tokens for {str(len(endpoints))} endpoints')
